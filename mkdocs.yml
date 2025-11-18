@@ -1,0 +1,24 @@
+site_name: Documentació de les tasques
+theme:
+  name: 'material'
+  palette:
+  primary: 'indigo'
+  accent: 'pink'
+  custom_dir: 'docs/overrides'
+
+
+
+nav:
+  - Inici: index.md
+  - Articles EDD:
+    - Article 1: edd/document_1.md
+    - Article 2: edd/document_2.md
+    - Article 3: edd/document_3.md
+    - Article 4: edd/document_4.md
+    - Article 5: edd/document_5.md
+    - Article 6: edd/document_7.md
+  - Articles LMI:
+    - Article 1: lmi/document_1.md
+
+extra_css:
+  - 'overrides/extra.css'

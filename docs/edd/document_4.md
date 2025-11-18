@@ -1,0 +1,2 @@
+# Efecto bola de nieve
+El problema fue haber usado un modelo de desarollo en cascada por que el cliente no tenia tan claro todos los requisitos. Se podia haber solucionado usando un modelo iterativo y incremental ya que el prototipo no se descarta, sino que se reutiliza, y en distintas iteraciones del modelo en cascada, va incrementando su funcionalidad hasta convertirse en la aplicación final
